@@ -38,7 +38,7 @@ It allows users to securely store, search, edit, and manage website credentials 
 
 ## 📸 Project Screenshot
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./Screenshot 2026-03-06 234754.png)
 
 ---
 
