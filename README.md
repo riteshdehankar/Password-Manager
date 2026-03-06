@@ -1,2 +1,39 @@
-# Password-Manager
-PassOP is a full-stack password manager built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to securely store, view, search, and manage website credentials. The project includes a responsive UI, RESTful API, and MongoDB database integration for efficient password storage and retrieval.
+# 🔐 PassOP – Password Manager (MERN)
+
+![PassOP Poster](./poster.png)
+
+PassOP is a full-stack password manager built using the **MERN Stack (MongoDB, Express, React, Node.js)**.  
+It allows users to securely store, manage, search, and delete website credentials through a modern and responsive user interface.
+
+---
+
+## 🚀 Features
+
+- 🔑 Secure password storage
+- 👁 Show / Hide password
+- 📋 Copy credentials to clipboard
+- 🔍 Search passwords instantly
+- 🗑 Delete saved passwords
+- ⚡ Fast REST API using Express
+- 💾 MongoDB database integration
+- 🎨 Responsive UI with modern design
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- React
+- Tailwind CSS
+- React Toastify
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- MongoDB
+
+---
+
+## 📂 Project Structure
